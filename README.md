@@ -1,1 +1,1 @@
-https://github.com/lonecucumberty-lab/posmotri-v-okno-fd
+https://github.com/lonecucumberty-lab/posmotri-v-okno-fd.git
